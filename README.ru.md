@@ -3,6 +3,7 @@
 
 **Автор:** Primer  
 **Дата:** 2026-03-29  
+**DOI:** [10.5281/zenodo.19300838](https://doi.org/10.5281/zenodo.19300838)   
 **Репозиторий:** [https://github.com/primerObjecte/holding-the-gap](https://github.com/primerObjecte/holding-the-gap)
 
 ---
