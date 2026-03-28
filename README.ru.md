@@ -2,7 +2,7 @@
 ## Протокол порождения нового знания
 
 **Автор:** Primer  
-**Дата:** 2026-04-28  
+**Дата:** 2026-03-29  
 **Репозиторий:** [https://github.com/primerObjecte/holding-the-gap](https://github.com/primerObjecte/holding-the-gap)
 
 ---
