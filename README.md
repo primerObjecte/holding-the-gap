@@ -2,7 +2,7 @@
 ## A Protocol for Generating New Knowledge
 
 **Author:** Primer  
-**Date:** 2026-04-28  
+**Date:** 2026-03-29  
 **Repository:** [https://github.com/primerObjecte/holding-the-gap](https://github.com/primerObjecte/holding-the-gap)
 
 ---
